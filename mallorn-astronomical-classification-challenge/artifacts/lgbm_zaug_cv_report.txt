@@ -1,0 +1,8 @@
+BACKEND=sklearn_hgb
+=== CV SUMMARY (threshold=0.50) ===
+Mean F1@0.50: 0.787709 | Std: 0.046917
+Best iters   : min=160 | mean=191.00 | max=254
+
+=== OOF THRESHOLD TUNING ===
+Best threshold = 0.740000
+OOF F1(best)   = 0.846011

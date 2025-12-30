@@ -1,0 +1,12 @@
+=== THRESHOLD TUNING REPORT (GLOBAL OOF) ===
+OOF samples         : 3043
+Positive rate (y=1) : 0.048636
+
+Best threshold      : 0.668000
+F1                  : 0.422535
+Precision           : 0.362319
+Recall              : 0.506757
+
+Saved files:
+- D:\MALLORN Astronomical Classification Challenge\mallorn-astronomical-classification-challenge\artifacts\lgbm_threshold_grid.csv
+- D:\MALLORN Astronomical Classification Challenge\mallorn-astronomical-classification-challenge\artifacts\lgbm_threshold_best.txt

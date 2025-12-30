@@ -1,0 +1,11 @@
+=== ENSEMBLE REPORT ===
+Models used: 2
+OOF rows (inner-join): 6,086
+Best threshold: 0.631000
+OOF F1: 0.687943
+OOF Precision: 0.723881
+OOF Recall: 0.655405
+
+OOF files:
+- D:\MALLORN Astronomical Classification Challenge\mallorn-astronomical-classification-challenge\artifacts\lgbm_oof.csv
+- D:\MALLORN Astronomical Classification Challenge\mallorn-astronomical-classification-challenge\artifacts\lgbm_zaug_oof.csv
